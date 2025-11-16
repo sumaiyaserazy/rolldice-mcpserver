@@ -3,10 +3,7 @@ import { OAuth2Client } from "google-auth-library";
 
 export async function POST(request: NextRequest) {
   const body = await request.json();
-  const { code, code_verifier, redirect_uri } = body;
-  
-  // Validate PKCE
-  // (Implementation details for code_verifier validation)
+  const { code, redirect_uri } = body;
   
   // Exchange code for token with Google
   const client = new OAuth2Client(
