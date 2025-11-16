@@ -189,7 +189,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-Created by **[Callum Bir](https://github.com/gocallum)**
+Created by **[Sumaiya Serazy](https://github.com/sumaiyaserazy)**
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
 
