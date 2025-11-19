@@ -30,20 +30,20 @@ This report documents the complete implementation of Week 9's Integrated Securit
 
 **Primary Portfolio Page:**
 - Development: `http://localhost:3000/portfolio`
-- Production (Ready for Deployment): `https://[your-domain].vercel.app/portfolio`
+- Production: `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio`
 
 **Dedicated Security Sections:**
-1. **Security Dashboard:** `/portfolio#dashboard`
+1. **Security Dashboard:** `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#dashboard`
    - Real-time WAF, Arcjet, and MCP metrics
    - Configuration status for all security layers
    - Security event timeline with severity indicators
 
-2. **MCP Integration Demo:** `/portfolio#mcp-demo`
+2. **MCP Integration Demo:** `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#mcp-demo`
    - Interactive security validation pipeline
    - Attack vector testing interface
    - Real-time feedback and status monitoring
 
-3. **Security Case Studies:** `/portfolio#case-studies`
+3. **Security Case Studies:** `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#case-studies`
    - 4 comprehensive implementation studies
    - LMS video references with timestamps
    - Kali Linux penetration testing results
@@ -86,7 +86,9 @@ This report documents the complete implementation of Week 9's Integrated Securit
 
 The executive security dashboard provides real-time monitoring across three critical security domains: Web Application Firewall (WAF), Arcjet Bot Protection, and Model Context Protocol (MCP) telemetry.
 
-**Dashboard URL:** `http://localhost:3000/portfolio#dashboard`
+**Dashboard URL:** 
+- Development: `http://localhost:3000/portfolio#dashboard`
+- Production: `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#dashboard`
 
 ### 2.2 Security Metrics Tracked
 
@@ -181,7 +183,9 @@ Recent security events are tracked with severity levels and automated responses:
 
 The MCP security demonstration provides an interactive, educational experience showing the multi-layered security validation process for Model Context Protocol tool calling.
 
-**Demo URL:** `http://localhost:3000/portfolio#mcp-demo`
+**Demo URL:** 
+- Development: `http://localhost:3000/portfolio#mcp-demo`
+- Production: `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#mcp-demo`
 
 ### 3.2 Security Validation Pipeline
 
@@ -297,7 +301,9 @@ The demo includes three built-in attack tests for educational purposes:
 
 Four comprehensive case studies document real-world security implementations with evidence from LMS courses and penetration testing.
 
-**Case Studies URL:** `http://localhost:3000/portfolio#case-studies`
+**Case Studies URL:** 
+- Development: `http://localhost:3000/portfolio#case-studies`
+- Production: `https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#case-studies`
 
 ---
 
@@ -1875,7 +1881,7 @@ The implementation demonstrates not only technical proficiency but also professi
 **Project Links:**
 - Repository: https://github.com/sumaiyaserazy/rolldice-mcpserver
 - Live Demo (Local): http://localhost:3000/portfolio
-- Production (TBD): [To be deployed]
+- Production: https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio
 
 **Submission Date:** November 19, 2025
 

@@ -227,7 +227,10 @@ A comprehensive security portfolio showcasing:
 
 ## 🚀 Demo Instructions
 
-### Local Setup
+### Portfolio Access
+**Production URL:** https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio
+
+**Local Development:**
 ```bash
 # Install dependencies
 pnpm install

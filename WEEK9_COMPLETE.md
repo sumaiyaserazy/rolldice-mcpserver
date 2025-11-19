@@ -162,8 +162,13 @@
 ## 🚀 How to Use Your New Portfolio
 
 ### 1. View the Portfolio
+**Production (Live):**
+```
+https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio
+```
+
+**Local Development:**
 ```bash
-# Already running at:
 http://localhost:3000/portfolio
 ```
 

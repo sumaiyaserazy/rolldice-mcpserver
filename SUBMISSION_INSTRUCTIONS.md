@@ -199,9 +199,9 @@ When you submit, include:
 **Production:** [Deploy to Vercel and provide URL]
 
 **Sections to Highlight:**
-- `/portfolio#dashboard` - Security Dashboard
-- `/portfolio#mcp-demo` - MCP Integration Demo
-- `/portfolio#case-studies` - Security Case Studies
+- https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#dashboard - Security Dashboard
+- https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#mcp-demo - MCP Integration Demo
+- https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#case-studies - Security Case Studies
 
 ### 3. Supporting Documentation (Optional)
 Include these if requested:
@@ -281,13 +281,13 @@ Please find attached my Week 9 deliverable: Integrated Security Portfolio.
 
 📋 Submission Contents:
 - Word Document: WEEK9_FINAL_REPORT.docx (attached)
-- Live Portfolio: [Your Vercel URL]/portfolio
+- Live Portfolio: https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio
 - Supporting Docs: Available in GitHub repository
 
 🎯 Key Deliverables:
-✅ Executive Security Dashboard - [URL]#dashboard
-✅ MCP Integration Demo - [URL]#mcp-demo  
-✅ 4 Security Case Studies - [URL]#case-studies
+✅ Executive Security Dashboard - https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#dashboard
+✅ MCP Integration Demo - https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#mcp-demo
+✅ 4 Security Case Studies - https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#case-studies
 ✅ LMS References - All included with timestamps
 ✅ Kali Testing Results - 10+ findings documented
 ✅ Analytics & SEO - Fully configured

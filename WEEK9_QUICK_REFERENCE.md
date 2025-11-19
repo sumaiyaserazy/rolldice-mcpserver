@@ -21,6 +21,12 @@
 
 ## 🔗 Quick Links
 
+### Production URLs
+- **Portfolio:** https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio
+- **Security Dashboard:** https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#dashboard
+- **MCP Demo:** https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#mcp-demo
+- **Case Studies:** https://rolldice-mcpserver-sumaiyaserazys-projects.vercel.app/portfolio#case-studies
+
 ### Local Development
 - **Home:** http://localhost:3000
 - **Portfolio:** http://localhost:3000/portfolio
