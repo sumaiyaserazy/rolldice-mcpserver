@@ -1,6 +1,6 @@
 "use client"
 
-import { Dice1, Settings, Play } from "lucide-react"
+import { Dice1, Settings, Play, GraduationCap } from "lucide-react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
@@ -9,6 +9,7 @@ import { TestDiceRoller } from "@/components/test-dice-roller"
 import { McpProtocolInfo } from "@/components/mcp-protocol-info"
 import { UsageGuide } from "@/components/usage-guide"
 import { AboutSection } from "@/components/about-section"
+import { PortfolioSection } from "@/components/portfolio-section"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
@@ -21,7 +22,7 @@ export default function Home() {
 
         {/* Main Content Tabs */}
         <Tabs defaultValue="setup" className="w-full">
-          <TabsList className="grid w-full grid-cols-4">
+          <TabsList className="grid w-full grid-cols-5">
             <TabsTrigger value="setup" className="flex items-center space-x-2">
               <Settings className="h-4 w-4" />
               <span>Setup Guide</span>
@@ -33,6 +34,10 @@ export default function Home() {
             <TabsTrigger value="usage" className="flex items-center space-x-2">
               <Play className="h-4 w-4" />
               <span>How to Play</span>
+            </TabsTrigger>
+            <TabsTrigger value="portfolio" className="flex items-center space-x-2">
+              <GraduationCap className="h-4 w-4" />
+              <span>Portfolio</span>
             </TabsTrigger>
             <TabsTrigger value="about" className="flex items-center space-x-2">
               <Dice1 className="h-4 w-4" />
@@ -51,6 +56,10 @@ export default function Home() {
 
           <TabsContent value="usage" className="space-y-6">
             <UsageGuide />
+          </TabsContent>
+
+          <TabsContent value="portfolio" className="space-y-6">
+            <PortfolioSection />
           </TabsContent>
 
           <TabsContent value="about" className="space-y-6">
